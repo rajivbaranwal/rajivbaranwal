@@ -69,10 +69,7 @@
  
  <br>
  
- <p align="center">
- <-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajivbaranwal&show_icons=true&theme=radical&count_private=true&custom_title=@adrianaluisadc "> -->
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivbaranwal&theme=radical" />
-</p>
+
  
 <-- <p align="center">
  <img width="200px" src = "left.png" />
