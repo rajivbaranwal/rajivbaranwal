@@ -1,11 +1,10 @@
-
-
 ### Hey Awesome and loving technoMates.💓
  
 - Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,
 - I am <b><i>RAJIV BARANWAL👨‍💻,</i></b><img width="60px" src = "https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" />
 - I am non biological extraterrestrial technocrate human being,
 - Here to serve my Geeky Gratitude🤩,
+- <b>MACHINE LEARNING,</b> <b>NumPy,<b> <b>Pandas,<b> <b>SciKit,<b> <b><b>
  <img width="90px" src = "https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" />
  &nbsp; &nbsp;
  <img width="90px" src = "https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif" />
